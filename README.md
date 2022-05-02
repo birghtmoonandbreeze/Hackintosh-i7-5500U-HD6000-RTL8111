@@ -1,5 +1,5 @@
-Hackintosh repository
-Hackintosh EFI
+Hackintosh repository                   
+Hackintosh EFI                        
 中文                   
 三星i7-5500U+HD6000+RTL8111
 已支持Monterey 12.3.1
